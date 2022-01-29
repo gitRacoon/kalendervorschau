@@ -1,2 +1,2 @@
-# kalendervorschau
-Base view calendar generator
+# Kalendervorschau
+Генератор календаря базового вида.
